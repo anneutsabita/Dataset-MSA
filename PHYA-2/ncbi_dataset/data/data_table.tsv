@@ -1,0 +1,5 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+544176	phyA	Phytochrome A	Solanum lycopersicum	tomato	4081	NC_015447.3:27326430-27332801	+	chr 10	PROTEIN_CODING	XM_019215834.2	transcript variant X1	3679	XM_019215834.2:295-3666	XP_019071379.1	isoform X1	1123	phytochrome A
+544176	phyA	Phytochrome A	Solanum lycopersicum	tomato	4081	NC_015447.3:27326430-27332801	+	chr 10	PROTEIN_CODING	NM_001247561.2	transcript variant 1	3946	NM_001247561.2:414-3785	NP_001234490.1		1123	Phytochrome A
+544176	phyA	Phytochrome A	Solanum lycopersicum	tomato	4081	NC_015447.3:27326430-27332801	+	chr 10	PROTEIN_CODING	NM_001316308.1	transcript variant 2	3924	NM_001316308.1:392-3763	NP_001303237.1		1123	Phytochrome A
+544176	phyA	Phytochrome A	Solanum lycopersicum	tomato	4081	NC_015447.3:27326430-27332801	+	chr 10	PROTEIN_CODING	XM_026033123.1	transcript variant X2	3847	XM_026033123.1:326-3697	XP_025888908.1	isoform X1	1123	phytochrome A

@@ -1,0 +1,2 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+8621207	phyA	prolyl 4-hydroxylase	Dictyostelium discoideum AX4		352472	NC_007088.5:8457984-8459054	+	chr 2	PROTEIN_CODING	XM_637404.1		855	XM_637404.1:1-855	XP_642496.1		284	prolyl 4-hydroxylase

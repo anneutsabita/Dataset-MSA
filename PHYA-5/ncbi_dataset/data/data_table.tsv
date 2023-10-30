@@ -1,2 +1,0 @@
-gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
-8311059	phyA	phytase phyA from patent WO2003038111-A2-Penicillium chrysogenum	Penicillium chrysogenum Wisconsin 54-1255		500485	NW_003020077.1:1851069-1852520	-		PROTEIN_CODING	XM_002561048.1		1452	XM_002561048.1:1-1452	XP_002561094.1		483	phytase phyA from patent WO2003038111-A2-Penicillium chrysogenum

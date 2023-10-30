@@ -1,3 +1,0 @@
-gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
-100240824	PHYA	phytochrome A	Vitis vinifera	wine grape	29760	NC_081818.1:185592-192902	+	chr 14	PROTEIN_CODING	XM_010661481.3	transcript variant X1	4759	XM_010661481.3:1151-4525	XP_010659783.1		1124	phytochrome A1
-100240824	PHYA	phytochrome A	Vitis vinifera	wine grape	29760	NC_081818.1:185592-192902	+	chr 14	PROTEIN_CODING	XM_002278574.5	transcript variant X2	3738	XM_002278574.5:130-3504	XP_002278610.1		1124	phytochrome A1

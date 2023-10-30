@@ -1,7 +1,0 @@
-gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
-837483	PHYA	phytochrome A	Arabidopsis thaliana	thale cress	3702	NC_003070.9:3095160-3100819	-	chr 1	PROTEIN_CODING	NM_100828.4		4387	NM_100828.4:681-4049	NP_172428.1		1122	phytochrome A
-837483	PHYA	phytochrome A	Arabidopsis thaliana	thale cress	3702	NC_003070.9:3095160-3100819	-	chr 1	PROTEIN_CODING	NM_001331841.1		3841	NM_001331841.1:178-3546	NP_001322909.1		1122	phytochrome A
-837483	PHYA	phytochrome A	Arabidopsis thaliana	thale cress	3702	NC_003070.9:3095160-3100819	-	chr 1	PROTEIN_CODING	NM_001331840.1		4079	NM_001331840.1:404-3784	NP_001322906.1		1126	phytochrome A
-837483	PHYA	phytochrome A	Arabidopsis thaliana	thale cress	3702	NC_003070.9:3095160-3100819	-	chr 1	PROTEIN_CODING	NM_001331843.1		4549	NM_001331843.1:891-4259	NP_001322907.1		1122	phytochrome A
-837483	PHYA	phytochrome A	Arabidopsis thaliana	thale cress	3702	NC_003070.9:3095160-3100819	-	chr 1	PROTEIN_CODING	NM_001331842.1		4595	NM_001331842.1:937-4305	NP_001322908.1		1122	phytochrome A
-837483	PHYA	phytochrome A	Arabidopsis thaliana	thale cress	3702	NC_003070.9:3095160-3100819	-	chr 1	PROTEIN_CODING	NM_001123784.1		3738	NM_001123784.1:452-3496	NP_001117256.1		1014	phytochrome A
